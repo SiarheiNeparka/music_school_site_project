@@ -1,5 +1,5 @@
 body {
-    font-family: Arial Helvetica sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
     font-size: medium;
 }
@@ -11,7 +11,7 @@ header {
     padding: 30px;
     text-align: center;
     font-size: 45px;
-    color: #49c5b6;
+    color: orchid;
 }
 
 section {
@@ -34,7 +34,7 @@ nav {
 }
 
 nav ul {
-    color: #49c5b6;
+    color: orchid;
     padding: 30px;
 }
 
@@ -48,5 +48,5 @@ footer {
     background-color: #000000;
     padding: 35px;
     text-align: center;
-    color: #49c5b6;
+    color: orchid;
 }
