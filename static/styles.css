@@ -50,3 +50,21 @@ footer {
     text-align: center;
     color: orchid;
 }
+
+a:link,
+a:visited {
+    background-color: cornflowerblue;
+    color: black;
+    border: 2px solid orchid;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+}
+
+a:hover,
+a:active {
+    background-color: orchid;
+    color: burlywood;
+}
